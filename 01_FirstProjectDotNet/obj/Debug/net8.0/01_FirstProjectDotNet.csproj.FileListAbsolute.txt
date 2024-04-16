@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\bin\Debug\net8.0\01_FirstProjectDotNet.exe
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\bin\Debug\net8.0\01_FirstProjectDotNet.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\bin\Debug\net8.0\01_FirstProjectDotNet.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\bin\Debug\net8.0\01_FirstProjectDotNet.dll
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\bin\Debug\net8.0\01_FirstProjectDotNet.pdb
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.dll
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\refint\01_FirstProjectDotNet.dll
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.pdb
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\01_FirstProjectDotNet.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\01_FirstProjectDotNet\obj\Debug\net8.0\ref\01_FirstProjectDotNet.dll
