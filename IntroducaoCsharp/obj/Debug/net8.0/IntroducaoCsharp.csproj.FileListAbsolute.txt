@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\bin\Debug\net8.0\IntroducaoCsharp.exe
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\bin\Debug\net8.0\IntroducaoCsharp.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\bin\Debug\net8.0\IntroducaoCsharp.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\bin\Debug\net8.0\IntroducaoCsharp.dll
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\bin\Debug\net8.0\IntroducaoCsharp.pdb
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.dll
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\refint\IntroducaoCsharp.dll
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.pdb
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\IntroducaoCsharp.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\IntroducaoCsharp\obj\Debug\net8.0\ref\IntroducaoCsharp.dll
