@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\bin\Debug\net8.0\03_DeclarandoVariaveis.exe
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\bin\Debug\net8.0\03_DeclarandoVariaveis.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\bin\Debug\net8.0\03_DeclarandoVariaveis.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\bin\Debug\net8.0\03_DeclarandoVariaveis.dll
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\bin\Debug\net8.0\03_DeclarandoVariaveis.pdb
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.dll
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\refint\03_DeclarandoVariaveis.dll
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.pdb
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\03_DeclarandoVariaveis.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\03_DeclarandoVariaveis\obj\Debug\net8.0\ref\03_DeclarandoVariaveis.dll
