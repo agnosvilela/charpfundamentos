@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\bin\Debug\net8.0\06_TipoDadoString.exe
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\bin\Debug\net8.0\06_TipoDadoString.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\bin\Debug\net8.0\06_TipoDadoString.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\bin\Debug\net8.0\06_TipoDadoString.dll
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\bin\Debug\net8.0\06_TipoDadoString.pdb
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.dll
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\refint\06_TipoDadoString.dll
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.pdb
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\06_TipoDadoString.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\06_TipoDadoString\obj\Debug\net8.0\ref\06_TipoDadoString.dll
