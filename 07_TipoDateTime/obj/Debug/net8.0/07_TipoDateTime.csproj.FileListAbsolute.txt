@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\bin\Debug\net8.0\07_TipoDateTime.exe
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\bin\Debug\net8.0\07_TipoDateTime.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\bin\Debug\net8.0\07_TipoDateTime.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\bin\Debug\net8.0\07_TipoDateTime.dll
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\bin\Debug\net8.0\07_TipoDateTime.pdb
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.dll
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\refint\07_TipoDateTime.dll
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.pdb
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\07_TipoDateTime.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\07_TipoDateTime\obj\Debug\net8.0\ref\07_TipoDateTime.dll
