@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\bin\Debug\net8.0\10_OperadoresDeAtribuicao.exe
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\bin\Debug\net8.0\10_OperadoresDeAtribuicao.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\bin\Debug\net8.0\10_OperadoresDeAtribuicao.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\bin\Debug\net8.0\10_OperadoresDeAtribuicao.dll
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\bin\Debug\net8.0\10_OperadoresDeAtribuicao.pdb
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.dll
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\refint\10_OperadoresDeAtribuicao.dll
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.pdb
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\10_OperadoresDeAtribuicao.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\10_OperadoresDeAtribuicao\obj\Debug\net8.0\ref\10_OperadoresDeAtribuicao.dll
