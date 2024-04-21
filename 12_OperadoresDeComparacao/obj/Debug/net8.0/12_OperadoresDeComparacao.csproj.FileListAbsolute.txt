@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\bin\Debug\net8.0\12_OperadoresDeComparacao.exe
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\bin\Debug\net8.0\12_OperadoresDeComparacao.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\bin\Debug\net8.0\12_OperadoresDeComparacao.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\bin\Debug\net8.0\12_OperadoresDeComparacao.dll
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\bin\Debug\net8.0\12_OperadoresDeComparacao.pdb
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.dll
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\refint\12_OperadoresDeComparacao.dll
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.pdb
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\12_OperadoresDeComparacao.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\12_OperadoresDeComparacao\obj\Debug\net8.0\ref\12_OperadoresDeComparacao.dll
