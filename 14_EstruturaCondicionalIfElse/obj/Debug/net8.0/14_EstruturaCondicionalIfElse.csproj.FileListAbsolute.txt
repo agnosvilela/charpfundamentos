@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\bin\Debug\net8.0\14_EstruturaCondicionalIfElse.exe
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\bin\Debug\net8.0\14_EstruturaCondicionalIfElse.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\bin\Debug\net8.0\14_EstruturaCondicionalIfElse.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\bin\Debug\net8.0\14_EstruturaCondicionalIfElse.dll
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\bin\Debug\net8.0\14_EstruturaCondicionalIfElse.pdb
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.dll
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\refint\14_EstruturaCondicionalIfElse.dll
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.pdb
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\14_EstruturaCondicionalIfElse.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\14_EstruturaCondicionalIfElse\obj\Debug\net8.0\ref\14_EstruturaCondicionalIfElse.dll
