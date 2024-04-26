@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\bin\Debug\net8.0\21_BreakContinue.exe
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\bin\Debug\net8.0\21_BreakContinue.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\bin\Debug\net8.0\21_BreakContinue.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\bin\Debug\net8.0\21_BreakContinue.dll
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\bin\Debug\net8.0\21_BreakContinue.pdb
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.dll
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\refint\21_BreakContinue.dll
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.pdb
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\21_BreakContinue.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\21_BreakContinue\obj\Debug\net8.0\ref\21_BreakContinue.dll
