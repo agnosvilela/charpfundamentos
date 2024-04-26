@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\bin\Debug\net8.0\19_EstruturaDeRepeticaoFor.exe
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\bin\Debug\net8.0\19_EstruturaDeRepeticaoFor.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\bin\Debug\net8.0\19_EstruturaDeRepeticaoFor.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\bin\Debug\net8.0\19_EstruturaDeRepeticaoFor.dll
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\bin\Debug\net8.0\19_EstruturaDeRepeticaoFor.pdb
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.dll
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\refint\19_EstruturaDeRepeticaoFor.dll
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.pdb
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\19_EstruturaDeRepeticaoFor.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\19_EstruturaDeRepeticaoFor\obj\Debug\net8.0\ref\19_EstruturaDeRepeticaoFor.dll
