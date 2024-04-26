@@ -1,0 +1,15 @@
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\bin\Debug\net8.0\17_EstruturaDeRepeticaoWhile.exe
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\bin\Debug\net8.0\17_EstruturaDeRepeticaoWhile.deps.json
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\bin\Debug\net8.0\17_EstruturaDeRepeticaoWhile.runtimeconfig.json
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\bin\Debug\net8.0\17_EstruturaDeRepeticaoWhile.dll
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\bin\Debug\net8.0\17_EstruturaDeRepeticaoWhile.pdb
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.AssemblyInfo.cs
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.sourcelink.json
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.dll
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\refint\17_EstruturaDeRepeticaoWhile.dll
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.pdb
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\17_EstruturaDeRepeticaoWhile.genruntimeconfig.cache
+C:\Users\agnos\Desktop\charpfundamentos\17_EstruturaDeRepeticaoWhile\obj\Debug\net8.0\ref\17_EstruturaDeRepeticaoWhile.dll
